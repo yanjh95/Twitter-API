@@ -1,2 +1,3 @@
 # Mini project
-mini project 1 for ece601 fall 19
+Group 12
+We are focusing on the food industry. Our goal is to design an app to customer food preferences and check what food is trending.
