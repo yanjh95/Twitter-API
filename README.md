@@ -13,4 +13,4 @@ Me as a restaurant company, would like to know data from other restaurants, so I
 Me as Government entities, would like to know that produce needs readjustment
 Me as FAO , would like to know food needs around the globe.
 # tweetgrab.py
-In the tweetgrab.py file, we use api.search() to get the feeds we wanted. For example. the "#fastfood". Then, we could acquire 60 feeds from the twitter search.
+In the **tweetgrab.py** file, we use *api.search()* to get the feeds we wanted. For example. the "#fastfood". Then, we could acquire 60 feeds from the twitter search.
