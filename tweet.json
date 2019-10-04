@@ -1,0 +1,2906 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -95.25491953,
+            30.01701017
+        ],
+        "type": "Point"
+    },
+    "created_at": "Mon Sep 30 15:39:26 +0000 2019",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    24,
+                    41
+                ],
+                "text": "signinstallation"
+            },
+            {
+                "indices": [
+                    98,
+                    115
+                ],
+                "text": "impossibleburger"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1178695858801410049",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/sOz76nwr6Y"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            30.01701017,
+            -95.25491953
+        ],
+        "type": "Point"
+    },
+    "id": 1178695858801410049,
+    "id_str": "1178695858801410049",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -95.2875574,
+                        29.953846
+                    ],
+                    [
+                        -95.231494,
+                        29.953846
+                    ],
+                    [
+                        -95.231494,
+                        30.032521
+                    ],
+                    [
+                        -95.2875574,
+                        30.032521
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Humble, TX",
+        "id": "e589c1ec3b0b9d2e",
+        "name": "Humble",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/e589c1ec3b0b9d2e.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "text": "Getting ready for a new #signinstallation but already thinking about lunch. Who\u2019s tried their new #impossibleburger\u2026 https://t.co/sOz76nwr6Y",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 28 18:35:54 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Your local sign and advertising experts. Creating Custom banners, signs, vehicle wraps and more!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "humblesignco.com",
+                        "expanded_url": "https://humblesignco.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/mY7pltCsjh"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1022,
+        "follow_request_sent": false,
+        "followers_count": 128,
+        "following": false,
+        "friends_count": 261,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 273559313,
+        "id_str": "273559313",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "20702 Townsen Boulevard East, Humble, TX 77338",
+        "name": "Humble Sign Co.",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/273559313/1529420720",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1008831301934198784/CC_Q8Bmp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1008831301934198784/CC_Q8Bmp_normal.jpg",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "HumbleSignCo",
+        "statuses_count": 945,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/mY7pltCsjh",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 30 01:51:58 +0000 2019",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1178487618385797122",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/WjEXXvg618"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1178487618385797122,
+    "id_str": "1178487618385797122",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Today I tried  Burger King s Impossible Burger and it was so yummy! I\u2019m a vegetarian so it was a little weird to be\u2026 https://t.co/WjEXXvg618",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 26 02:09:43 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Chronic Pain/ Hate is ignorance. #humanRace #forGodSoLovedTheWORLD #worldCitizen #vegetarian #compassion #Beto2020",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "activitiesforlife.net",
+                        "expanded_url": "http://activitiesforlife.net",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/f0cGys0oRu"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 71715,
+        "follow_request_sent": false,
+        "followers_count": 1511,
+        "following": false,
+        "friends_count": 2336,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 26662654,
+        "id_str": "26662654",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 17,
+        "location": "Beautiful Colorado",
+        "name": "Vee Beth herreras \ud83e\udd44\ud83d\udd4a\ud83d\udc11\ud83e\udd81",
+        "notifications": false,
+        "profile_background_color": "8B542B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/26662654/1565807933",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/936354081865469952/XDVhzhqC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/936354081865469952/XDVhzhqC_normal.jpg",
+        "profile_link_color": "9D582E",
+        "profile_sidebar_border_color": "D9B17E",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "veelighted7",
+        "statuses_count": 23161,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/f0cGys0oRu",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 30 00:09:01 +0000 2019",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    73,
+                    90
+                ],
+                "text": "impossibleburger"
+            },
+            {
+                "indices": [
+                    91,
+                    100
+                ],
+                "text": "strategy"
+            },
+            {
+                "indices": [
+                    101,
+                    112
+                ],
+                "text": "burgerking"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "buff.ly/2nxmy0k",
+                "expanded_url": "https://buff.ly/2nxmy0k",
+                "indices": [
+                    48,
+                    71
+                ],
+                "url": "https://t.co/xaUCBVgi4C"
+            },
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1178461711017398273",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/BYBDd1pldX"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1178461711017398273,
+    "id_str": "1178461711017398273",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+    "text": "A testament to people's' willingness to believe\nhttps://t.co/xaUCBVgi4C  #impossibleburger #strategy #burgerking \nI\u2026 https://t.co/BYBDd1pldX",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 11 11:55:54 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I help aggressive brands thrive in transforming marketplaces #brand #strategy #innovation",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/in/erichunter0\u2026",
+                        "expanded_url": "https://www.linkedin.com/in/erichunter01/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/mWpmdJeriF"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3153,
+        "follow_request_sent": false,
+        "followers_count": 3953,
+        "following": false,
+        "friends_count": 3922,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 30436852,
+        "id_str": "30436852",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 187,
+        "location": "New York, NY",
+        "name": "Eric Hunter",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30436852/1440692754",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1608016027/me_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1608016027/me_normal.JPG",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "MR_TallGuy",
+        "statuses_count": 6387,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/mWpmdJeriF",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Sep 29 23:27:05 +0000 2019",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    0,
+                    11
+                ],
+                "text": "burgerking"
+            },
+            {
+                "indices": [
+                    12,
+                    30
+                ],
+                "text": "impossiblewhopper"
+            },
+            {
+                "indices": [
+                    31,
+                    48
+                ],
+                "text": "impossibleburger"
+            },
+            {
+                "indices": [
+                    86,
+                    100
+                ],
+                "text": "stellabobella"
+            },
+            {
+                "indices": [
+                    101,
+                    110
+                ],
+                "text": "sorrymom"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1178451157225746432",
+                "indices": [
+                    112,
+                    135
+                ],
+                "url": "https://t.co/RoqUF69lHv"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 167421802,
+                "id_str": "167421802",
+                "indices": [
+                    57,
+                    68
+                ],
+                "name": "Burger King",
+                "screen_name": "BurgerKing"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1178451157225746432,
+    "id_str": "1178451157225746432",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "#burgerking #impossiblewhopper #impossibleburger   Sorry @BurgerKing and sorry mom!!!\n#stellabobella #sorrymom\u2026 https://t.co/RoqUF69lHv",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 29 23:12:19 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Sorry mom!!!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/channel/UC__qA\u2026",
+                        "expanded_url": "https://www.youtube.com/channel/UC__qAOlkSIFu8RGtr4MyV8w",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/TOeYswijzu"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 0,
+        "following": false,
+        "friends_count": 11,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1178447384155758592,
+        "id_str": "1178447384155758592",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "StellaBoBella",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1178447854693752832/4miKddNm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1178447854693752832/4miKddNm_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "StellaBoBella4",
+        "statuses_count": 1,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/TOeYswijzu",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Sep 29 22:05:08 +0000 2019",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    107,
+                    124
+                ],
+                "text": "impossibleburger"
+            },
+            {
+                "indices": [
+                    128,
+                    139
+                ],
+                "text": "beyondmeat"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 359906875,
+                "id_str": "359906875",
+                "indices": [
+                    3,
+                    18
+                ],
+                "name": "Kitty",
+                "screen_name": "metallovingcat"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1178430534676107264,
+    "id_str": "1178430534676107264",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Sep 14 01:56:38 +0000 2019",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        87,
+                        104
+                    ],
+                    "text": "impossibleburger"
+                },
+                {
+                    "indices": [
+                        108,
+                        119
+                    ],
+                    "text": "beyondmeat"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1172690589038600192",
+                    "indices": [
+                        121,
+                        144
+                    ],
+                    "url": "https://t.co/omd3kXdl2N"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "geo": null,
+        "id": 1172690589038600192,
+        "id_str": "1172690589038600192",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Am I the only vegetarian that is constantly annoyed &amp; bewildered that places offer #impossibleburger or #beyondmeat\u2026 https://t.co/omd3kXdl2N",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Aug 22 11:08:57 +0000 2011",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Just a rock loving midwest girl who poses as an adult during the week & resumes my true big haired, 80's/90's party loving self on the weekends '.'",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 1682,
+            "follow_request_sent": false,
+            "followers_count": 72,
+            "following": false,
+            "friends_count": 213,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 359906875,
+            "id_str": "359906875",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 0,
+            "location": "",
+            "name": "Kitty",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/359906875/1480851602",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/805376103439273984/I47x0yWV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/805376103439273984/I47x0yWV_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "metallovingcat",
+            "statuses_count": 897,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "RT @metallovingcat: Am I the only vegetarian that is constantly annoyed &amp; bewildered that places offer #impossibleburger or #beyondmeat yet\u2026",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 26 12:32:56 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Likes going places and seeing things. All about them animals. Enjoys tweeting about reality trash. Caffeine is pretty nice.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 9956,
+        "follow_request_sent": false,
+        "followers_count": 32,
+        "following": false,
+        "friends_count": 54,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 3446920823,
+        "id_str": "3446920823",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "England, United Kingdom",
+        "name": "Kimmmmm",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1153057541515075584/04TKR5PL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1153057541515075584/04TKR5PL_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "gale_kimberley",
+        "statuses_count": 157,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Sep 29 20:31:37 +0000 2019",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1178407001019146240",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/AqH8cygjlY"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 167421802,
+                "id_str": "167421802",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Burger King",
+                "screen_name": "BurgerKing"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1178407001019146240,
+    "id_str": "1178407001019146240",
+    "in_reply_to_screen_name": "BurgerKing",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 167421802,
+    "in_reply_to_user_id_str": "167421802",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.667386,
+                        45.711306
+                    ],
+                    [
+                        -122.5994,
+                        45.711306
+                    ],
+                    [
+                        -122.5994,
+                        45.765252
+                    ],
+                    [
+                        -122.667386,
+                        45.765252
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Mount Vista, WA",
+        "id": "7ee261fe19bbf9a9",
+        "name": "Mount Vista",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7ee261fe19bbf9a9.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@BurgerKing released the Impossible Whopper, Zero beef 100% plant. Has the price gone down? Is this to go along wit\u2026 https://t.co/AqH8cygjlY",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 26 02:17:42 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2456,
+        "follow_request_sent": false,
+        "followers_count": 24,
+        "following": false,
+        "friends_count": 34,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 802335489818640384,
+        "id_str": "802335489818640384",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Ridgefield, WA",
+        "name": "Bob Pedrin",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/802335489818640384/1480128714",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/802344751156428800/Kf8QOedC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/802344751156428800/Kf8QOedC_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BobPedrin",
+        "statuses_count": 651,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Sep 29 19:28:41 +0000 2019",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    31,
+                    48
+                ],
+                "text": "impossibleburger"
+            },
+            {
+                "indices": [
+                    49,
+                    60
+                ],
+                "text": "burgerking"
+            },
+            {
+                "indices": [
+                    61,
+                    69
+                ],
+                "text": "whopper"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1178391163717525507,
+    "id_str": "1178391163717525507",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "Trying the impossible whopper. #impossibleburger #burgerking #whopper",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 17 23:31:08 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Official Twitter of the Alligatordoctor.\n-It's always been Wankershim",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3658,
+        "follow_request_sent": false,
+        "followers_count": 1132,
+        "following": false,
+        "friends_count": 3245,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 24980649,
+        "id_str": "24980649",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 21,
+        "location": "Virginia",
+        "name": "G",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24980649/1566958124",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1167266689366548480/MJMTGvCv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1167266689366548480/MJMTGvCv_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "alligatordoctor",
+        "statuses_count": 6297,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Sep 29 06:08:26 +0000 2019",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    18,
+                    29
+                ],
+                "text": "burgerking"
+            },
+            {
+                "indices": [
+                    30,
+                    47
+                ],
+                "text": "impossibleburger"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "images.app.goo.gl/tDcNqM7APiw5fJ\u2026",
+                "expanded_url": "https://images.app.goo.gl/tDcNqM7APiw5fJV87",
+                "indices": [
+                    49,
+                    72
+                ],
+                "url": "https://t.co/XcTifRPGO7"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1178189772755476480,
+    "id_str": "1178189772755476480",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "The new image for #burgerking #impossibleburger  https://t.co/XcTifRPGO7",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 21 01:18:16 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Know and live the truth and don't be afraid to stand. Traveling, living, watching; staying informed. Reality matters 24/7/365!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3994,
+        "follow_request_sent": false,
+        "followers_count": 172,
+        "following": false,
+        "friends_count": 714,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 339387432,
+        "id_str": "339387432",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 11,
+        "location": "Kansas City, MO",
+        "name": "M&L. C",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/339387432/1569270495",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1176231817533374464/hirb28VX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1176231817533374464/hirb28VX_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MLinout",
+        "statuses_count": 7361,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Sep 29 01:22:06 +0000 2019",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    19,
+                    36
+                ],
+                "text": "impossibleburger"
+            },
+            {
+                "indices": [
+                    37,
+                    40
+                ],
+                "text": "bk"
+            },
+            {
+                "indices": [
+                    41,
+                    52
+                ],
+                "text": "burgerking"
+            },
+            {
+                "indices": [
+                    53,
+                    68
+                ],
+                "text": "meatlessburger"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "instagram.com/p/B2-fxHMj_ex/\u2026",
+                "expanded_url": "https://www.instagram.com/p/B2-fxHMj_ex/?igshid=1fu386bd42fj1",
+                "indices": [
+                    69,
+                    92
+                ],
+                "url": "https://t.co/5DMM0gXzAu"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1178117714847698944,
+    "id_str": "1178117714847698944",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "text": "Welp. Here goes... #impossibleburger #bk #burgerking #meatlessburger https://t.co/5DMM0gXzAu",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 18 05:31:14 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Self-taught artist, art collector, animal lover and hermit.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/SFCountArt",
+                        "expanded_url": "http://www.facebook.com/SFCountArt",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/tZmu9XXohV"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3446,
+        "follow_request_sent": false,
+        "followers_count": 316,
+        "following": false,
+        "friends_count": 144,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 32803373,
+        "id_str": "32803373",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 30,
+        "location": "USA",
+        "name": "Sarah Countiss",
+        "notifications": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/32803373/1397016674",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/754590772087951360/m819Poc5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/754590772087951360/m819Poc5_normal.jpg",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sfcount",
+        "statuses_count": 4236,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/tZmu9XXohV",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Sep 28 21:32:29 +0000 2019",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    14,
+                    25
+                ],
+                "text": "burgerking"
+            },
+            {
+                "indices": [
+                    26,
+                    44
+                ],
+                "text": "impossiblewhopper"
+            },
+            {
+                "indices": [
+                    67,
+                    75
+                ],
+                "text": "reviews"
+            },
+            {
+                "indices": [
+                    82,
+                    90
+                ],
+                "text": "mukbang"
+            },
+            {
+                "indices": [
+                    104,
+                    112
+                ],
+                "text": "YouTube"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1178059930756161541",
+                "indices": [
+                    121,
+                    144
+                ],
+                "url": "https://t.co/leTaBQBcrZ"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1178059930756161541,
+    "id_str": "1178059930756161541",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Tried the New #burgerking #impossiblewhopper \ud83d\ude05\n\nIf you like HONEST #reviews &amp; #mukbang Watch my New #YouTube video!\u2026 https://t.co/leTaBQBcrZ",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Dec 17 04:52:28 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Greetings \u270c\ud83c\udffc",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/channel/UC_Ipw\u2026",
+                        "expanded_url": "https://www.youtube.com/channel/UC_IpweFlXFGtC_l1XkioSCw",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/XKdwi7Dm1a"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 35,
+        "follow_request_sent": false,
+        "followers_count": 63,
+        "following": false,
+        "friends_count": 29,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2229636491,
+        "id_str": "2229636491",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "",
+        "name": "AM\ud83c\udf19",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2229636491/1387258942",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1174375931592499201/yyEvQc2A_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174375931592499201/yyEvQc2A_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MandaPhoneHome",
+        "statuses_count": 476,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/XKdwi7Dm1a",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Sep 28 18:15:58 +0000 2019",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    108,
+                    115
+                ],
+                "text": "innout"
+            },
+            {
+                "indices": [
+                    116,
+                    133
+                ],
+                "text": "impossibleburger"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "youtu.be/lQ9KkzZ-02Y",
+                "expanded_url": "https://youtu.be/lQ9KkzZ-02Y",
+                "indices": [
+                    84,
+                    107
+                ],
+                "url": "https://t.co/bSErsmfL8k"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 30469270,
+                "id_str": "30469270",
+                "indices": [
+                    3,
+                    18
+                ],
+                "name": "Jeremiah Smith",
+                "screen_name": "jeremiahjsmith"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1178010477818867712,
+    "id_str": "1178010477818867712",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Sep 28 15:15:28 +0000 2019",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        88,
+                        95
+                    ],
+                    "text": "innout"
+                },
+                {
+                    "indices": [
+                        96,
+                        113
+                    ],
+                    "text": "impossibleburger"
+                },
+                {
+                    "indices": [
+                        114,
+                        125
+                    ],
+                    "text": "burgerking"
+                },
+                {
+                    "indices": [
+                        126,
+                        137
+                    ],
+                    "text": "BeyondMeat"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "youtu.be/lQ9KkzZ-02Y",
+                    "expanded_url": "https://youtu.be/lQ9KkzZ-02Y",
+                    "indices": [
+                        64,
+                        87
+                    ],
+                    "url": "https://t.co/bSErsmfL8k"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "geo": null,
+        "id": 1177965051367411717,
+        "id_str": "1177965051367411717",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "New video is live! Shout out to all my vegetarians on this one: https://t.co/bSErsmfL8k #innout #impossibleburger #burgerking #BeyondMeat",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Apr 11 15:53:05 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Las Vegas Signature Mobile Expert and Causual Youtuber: LasVegasJay on YouTube and IG",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 654,
+            "follow_request_sent": false,
+            "followers_count": 202,
+            "following": false,
+            "friends_count": 181,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 30469270,
+            "id_str": "30469270",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 4,
+            "location": "North America",
+            "name": "Jeremiah Smith",
+            "notifications": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/30469270/1505753959",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/747536993605693440/FJpCgSj2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/747536993605693440/FJpCgSj2_normal.jpg",
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_border_color": "181A1E",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "jeremiahjsmith",
+            "statuses_count": 1765,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "RT @jeremiahjsmith: New video is live! Shout out to all my vegetarians on this one: https://t.co/bSErsmfL8k #innout #impossibleburger #burg\u2026",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 10 22:51:19 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 875,
+        "follow_request_sent": false,
+        "followers_count": 75,
+        "following": false,
+        "friends_count": 91,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 73243518,
+        "id_str": "73243518",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "",
+        "name": "Garth Bickmore",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/73243518/1538720391",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1048095401453088769/yHpxvTS6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048095401453088769/yHpxvTS6_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bickmorg",
+        "statuses_count": 186,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Sep 28 17:40:21 +0000 2019",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1178001512053825536",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/R94nF0yxvB"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1178001512053825536,
+    "id_str": "1178001512053825536",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "Opinion: After having both a regular Whopper and an Impossible Whopper in the same week, I think the Impossible Who\u2026 https://t.co/R94nF0yxvB",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 13 18:29:02 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Mainframe programmer with a strong interest in Python, Linux, and learning web frameworks. Fan of Big Brother and Survivor.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 281,
+        "follow_request_sent": false,
+        "followers_count": 77,
+        "following": false,
+        "friends_count": 304,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 334818973,
+        "id_str": "334818973",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 9,
+        "location": "Sherwood, Arkansas",
+        "name": "Jeremy",
+        "notifications": false,
+        "profile_background_color": "001329",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/334818973/1422825757",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/740881891440492545/2GcgV7yS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/740881891440492545/2GcgV7yS_normal.jpg",
+        "profile_link_color": "004358",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000B17",
+        "profile_text_color": "448668",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "gnuself",
+        "statuses_count": 7478,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Sep 28 15:15:28 +0000 2019",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    88,
+                    95
+                ],
+                "text": "innout"
+            },
+            {
+                "indices": [
+                    96,
+                    113
+                ],
+                "text": "impossibleburger"
+            },
+            {
+                "indices": [
+                    114,
+                    125
+                ],
+                "text": "burgerking"
+            },
+            {
+                "indices": [
+                    126,
+                    137
+                ],
+                "text": "BeyondMeat"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "youtu.be/lQ9KkzZ-02Y",
+                "expanded_url": "https://youtu.be/lQ9KkzZ-02Y",
+                "indices": [
+                    64,
+                    87
+                ],
+                "url": "https://t.co/bSErsmfL8k"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 1177965051367411717,
+    "id_str": "1177965051367411717",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "New video is live! Shout out to all my vegetarians on this one: https://t.co/bSErsmfL8k #innout #impossibleburger #burgerking #BeyondMeat",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 11 15:53:05 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Las Vegas Signature Mobile Expert and Causual Youtuber: LasVegasJay on YouTube and IG",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 654,
+        "follow_request_sent": false,
+        "followers_count": 202,
+        "following": false,
+        "friends_count": 181,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 30469270,
+        "id_str": "30469270",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "North America",
+        "name": "Jeremiah Smith",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30469270/1505753959",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/747536993605693440/FJpCgSj2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/747536993605693440/FJpCgSj2_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jeremiahjsmith",
+        "statuses_count": 1765,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -82.39520189,
+            28.053784
+        ],
+        "type": "Point"
+    },
+    "created_at": "Sat Sep 28 13:15:37 +0000 2019",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1177934891259793408",
+                "indices": [
+                    114,
+                    137
+                ],
+                "url": "https://t.co/CEO0HRaGxB"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 17338082,
+                "id_str": "17338082",
+                "indices": [
+                    52,
+                    60
+                ],
+                "name": "T-Mobile",
+                "screen_name": "TMobile"
+            },
+            {
+                "id": 167421802,
+                "id_str": "167421802",
+                "indices": [
+                    61,
+                    72
+                ],
+                "name": "Burger King",
+                "screen_name": "BurgerKing"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            28.053784,
+            -82.39520189
+        ],
+        "type": "Point"
+    },
+    "id": 1177934891259793408,
+    "id_str": "1177934891259793408",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -82.40189,
+                        28.011287
+                    ],
+                    [
+                        -82.343566,
+                        28.011287
+                    ],
+                    [
+                        -82.343566,
+                        28.0736921
+                    ],
+                    [
+                        -82.40189,
+                        28.0736921
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Temple Terrace, FL",
+        "id": "074d5ce471c43508",
+        "name": "Temple Terrace",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/074d5ce471c43508.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "text": "Have you tried the new Impossible Burger? Thank you @tmobile @burgerking for the opportunity to try it for free.\u2026 https://t.co/CEO0HRaGxB",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 04 11:45:06 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\"Those who tell the stories rule the world.\" --Hopi American Indian proverb",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/iamdashcunning/",
+                        "expanded_url": "https://www.instagram.com/iamdashcunning/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/9ufWlqDz7q"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 693,
+        "follow_request_sent": false,
+        "followers_count": 2045,
+        "following": false,
+        "friends_count": 3076,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 348414859,
+        "id_str": "348414859",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 49,
+        "location": "",
+        "name": "Mark Freeman",
+        "notifications": false,
+        "profile_background_color": "C0DCF1",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/348414859/1568053251",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1088177021178531842/4EUMNNgl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088177021178531842/4EUMNNgl_normal.jpg",
+        "profile_link_color": "C0DCF1",
+        "profile_sidebar_border_color": "C0DCF1",
+        "profile_sidebar_fill_color": "1C1C1C",
+        "profile_text_color": "5C91B9",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "iamdashcunning",
+        "statuses_count": 8595,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/9ufWlqDz7q",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Sep 28 01:25:39 +0000 2019",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    0,
+                    5
+                ],
+                "text": "TGIF"
+            },
+            {
+                "indices": [
+                    7,
+                    13
+                ],
+                "text": "relax"
+            },
+            {
+                "indices": [
+                    14,
+                    28
+                ],
+                "text": "treatyourself"
+            },
+            {
+                "indices": [
+                    37,
+                    43
+                ],
+                "text": "still"
+            },
+            {
+                "indices": [
+                    44,
+                    52
+                ],
+                "text": "indulge"
+            },
+            {
+                "indices": [
+                    58,
+                    64
+                ],
+                "text": "vegan"
+            },
+            {
+                "indices": [
+                    65,
+                    72
+                ],
+                "text": "Thanks"
+            },
+            {
+                "indices": [
+                    110,
+                    115
+                ],
+                "text": "vote"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1177756223418109952",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/0gqmcqPMYl"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 167421802,
+                "id_str": "167421802",
+                "indices": [
+                    76,
+                    87
+                ],
+                "name": "Burger King",
+                "screen_name": "BurgerKing"
+            },
+            {
+                "id": 1928214643,
+                "id_str": "1928214643",
+                "indices": [
+                    92,
+                    108
+                ],
+                "name": "Impossible Foods",
+                "screen_name": "ImpossibleFoods"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1177756223418109952,
+    "id_str": "1177756223418109952",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "#TGIF  #relax #treatyourself you can #still #indulge as a #vegan #Thanks to @BurgerKing and @ImpossibleFoods  #vote\u2026 https://t.co/0gqmcqPMYl",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 10 14:53:30 +0000 2018",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Follow me on Instagram and DeviantArt: MinNagellack",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 596,
+        "follow_request_sent": false,
+        "followers_count": 67,
+        "following": false,
+        "friends_count": 69,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1027930948518797314,
+        "id_str": "1027930948518797314",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "MinNagellack",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1027930948518797314/1564017318",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1064059541539700736/7BJvzj9t_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1064059541539700736/7BJvzj9t_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "MinNagellack",
+        "statuses_count": 1124,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Sep 27 18:49:18 +0000 2019",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1177656476644474880",
+                "indices": [
+                    101,
+                    124
+                ],
+                "url": "https://t.co/yEtz0TGtWR"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 49,
+    "favorited": false,
+    "geo": null,
+    "id": 1177656476644474880,
+    "id_str": "1177656476644474880",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "de",
+    "metadata": {
+        "iso_language_code": "de",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -124.482003,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        42.009519
+                    ],
+                    [
+                        -124.482003,
+                        42.009519
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "California, USA",
+        "id": "fbd6d2f5a4e4a15e",
+        "name": "California",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/fbd6d2f5a4e4a15e.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Einfach geil. Der Impossible Whopper. Kein Fleisch und schmeckt trotzdem wie das Original. Bin Fan.\u2026 https://t.co/yEtz0TGtWR",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 03 18:11:13 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Moderator von Insert Coin auf https://t.co/CGOL153Agm. Ich habe ne Meinung die ich hier auch gerne Mal kund tu. Wem das nicht passt, Pech gehabt.",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "gameswelt.tv",
+                        "expanded_url": "http://gameswelt.tv",
+                        "indices": [
+                            30,
+                            53
+                        ],
+                        "url": "https://t.co/CGOL153Agm"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/telerickster",
+                        "expanded_url": "http://www.instagram.com/telerickster",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Ir1sclZpv5"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6966,
+        "follow_request_sent": false,
+        "followers_count": 7894,
+        "following": false,
+        "friends_count": 320,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 19989895,
+        "id_str": "19989895",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 105,
+        "location": "Munich",
+        "name": "Felix Rick",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19989895/1400231537",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1126047378241413121/HlN9eAdC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1126047378241413121/HlN9eAdC_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Telerick",
+        "statuses_count": 10910,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/Ir1sclZpv5",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Sep 27 14:03:31 +0000 2019",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    74,
+                    85
+                ],
+                "text": "BURGERKING"
+            },
+            {
+                "indices": [
+                    86,
+                    103
+                ],
+                "text": "Impossibleburger"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "youtu.be/oMbKvGAcZf8",
+                "expanded_url": "https://youtu.be/oMbKvGAcZf8",
+                "indices": [
+                    37,
+                    60
+                ],
+                "url": "https://t.co/Z0jwE2sWia"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 10228272,
+                "id_str": "10228272",
+                "indices": [
+                    65,
+                    73
+                ],
+                "name": "YouTube",
+                "screen_name": "YouTube"
+            },
+            {
+                "id": 167421802,
+                "id_str": "167421802",
+                "indices": [
+                    104,
+                    115
+                ],
+                "name": "Burger King",
+                "screen_name": "BurgerKing"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1177584559015288832,
+    "id_str": "1177584559015288832",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "tl",
+    "metadata": {
+        "iso_language_code": "tl",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Car MUKBANG| Impossible Whopper|VLOG https://t.co/Z0jwE2sWia via @YouTube #BURGERKING #Impossibleburger @BurgerKing",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 10 02:48:42 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "\ud83e\udd40\ud83e\udd40\ud83e\udd40\ud83c\udf39\ud83c\udf39 A ROSE FROM #UAPB",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2286,
+        "follow_request_sent": false,
+        "followers_count": 26,
+        "following": false,
+        "friends_count": 76,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1049854206230835200,
+        "id_str": "1049854206230835200",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "",
+        "name": "Simone_Eri",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1049854206230835200/1566096805",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1119775426749063169/_tyIFVHh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1119775426749063169/_tyIFVHh_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "simone_eri",
+        "statuses_count": 1371,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Sep 27 03:39:12 +0000 2019",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1177427442471858178",
+                "indices": [
+                    109,
+                    132
+                ],
+                "url": "https://t.co/sK8MhFZHnS"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 167421802,
+                "id_str": "167421802",
+                "indices": [
+                    48,
+                    59
+                ],
+                "name": "Burger King",
+                "screen_name": "BurgerKing"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1177427442471858178,
+    "id_str": "1177427442471858178",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "I asked on IG if anyone wasn't going to use the @BurgerKing impossible code and I get this in my DM.. sorry\u2026 https://t.co/sK8MhFZHnS",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 11 02:40:59 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 19,
+        "following": false,
+        "friends_count": 28,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2383025540,
+        "id_str": "2383025540",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Ma1u",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1177416879138209792/E-xx6Te6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1177416879138209792/E-xx6Te6_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Melu316",
+        "statuses_count": 62,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 26 18:14:25 +0000 2019",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    56,
+                    73
+                ],
+                "text": "ImpossibleBurger"
+            },
+            {
+                "indices": [
+                    78,
+                    91
+                ],
+                "text": "VeggieBurger"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1177285308095688704",
+                "indices": [
+                    113,
+                    136
+                ],
+                "url": "https://t.co/Cr6dyIGh8m"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 167421802,
+                "id_str": "167421802",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Burger King",
+                "screen_name": "BurgerKing"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1177285308095688704,
+    "id_str": "1177285308095688704",
+    "in_reply_to_screen_name": "BurgerKing",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 167421802,
+    "in_reply_to_user_id_str": "167421802",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@BurgerKing are already streets ahead of you with their #ImpossibleBurger and #VeggieBurger but welcome along \ud83e\udd23\u2026 https://t.co/Cr6dyIGh8m",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 22 22:40:40 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Beats,books,https://t.co/nU9RPlatkr Football,@NatGeo,MTB. Rants N' Bantz. Globetrotting Creative Genius Wannabe. \u2665@puma @adidas+@adidasOriginals #BrandingMatters #PUMAdidas",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "media.World",
+                        "expanded_url": "http://media.World",
+                        "indices": [
+                            12,
+                            35
+                        ],
+                        "url": "https://t.co/nU9RPlatkr"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5466,
+        "follow_request_sent": false,
+        "followers_count": 171,
+        "following": false,
+        "friends_count": 828,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 136053165,
+        "id_str": "136053165",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7,
+        "location": "Virtually Anywhere",
+        "name": "Chris O'Reilly",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1024654395257049089/QKsg65V0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024654395257049089/QKsg65V0_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "chrisj_oreilly",
+        "statuses_count": 4950,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 26 17:12:30 +0000 2019",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    17,
+                    28
+                ],
+                "text": "BurgerKing"
+            },
+            {
+                "indices": [
+                    50,
+                    67
+                ],
+                "text": "ImpossibleBurger"
+            },
+            {
+                "indices": [
+                    110,
+                    118
+                ],
+                "text": "Whopper"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1097572017807785992,
+                "id_str": "1097572017807785992",
+                "indices": [
+                    3,
+                    15
+                ],
+                "name": "Drew And Who",
+                "screen_name": "DrewAndWho1"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1177269727888138240,
+    "id_str": "1177269727888138240",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Sep 26 17:06:59 +0000 2019",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        0,
+                        11
+                    ],
+                    "text": "BurgerKing"
+                },
+                {
+                    "indices": [
+                        33,
+                        50
+                    ],
+                    "text": "ImpossibleBurger"
+                },
+                {
+                    "indices": [
+                        93,
+                        101
+                    ],
+                    "text": "Whopper"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1177268341129515009",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/7nOA970FCL"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "geo": null,
+        "id": 1177268341129515009,
+        "id_str": "1177268341129515009",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "#BurgerKing came out with the ne #ImpossibleBurger. We gave it a test drive next to the real #Whopper. Check out th\u2026 https://t.co/7nOA970FCL",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Feb 18 19:02:15 +0000 2019",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Twitch - Drewandwho         \nYouTube - Drew And Who   Snapchat - Drewandwho  \nFacebook - Drew AndWho",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "twitch.tv/drewandwho",
+                            "expanded_url": "https://www.twitch.tv/drewandwho",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/9V8t65tcBy"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 31,
+            "follow_request_sent": false,
+            "followers_count": 20,
+            "following": false,
+            "friends_count": 199,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1097572017807785992,
+            "id_str": "1097572017807785992",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 0,
+            "location": "Ohio, USA",
+            "name": "Drew And Who",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1097572017807785992/1551149258",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1171210953804918784/E1pdxI35_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1171210953804918784/E1pdxI35_normal.jpg",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "DrewAndWho1",
+            "statuses_count": 32,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/9V8t65tcBy",
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "RT @DrewAndWho1: #BurgerKing came out with the ne #ImpossibleBurger. We gave it a test drive next to the real #Whopper. Check out the resul\u2026",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 11 15:43:12 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 278,
+        "follow_request_sent": false,
+        "followers_count": 114,
+        "following": false,
+        "friends_count": 213,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 4164697227,
+        "id_str": "4164697227",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Andrew Grimmett",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1177263122849107968/XTW7nTCN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1177263122849107968/XTW7nTCN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DrewGrimmett12",
+        "statuses_count": 159,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
