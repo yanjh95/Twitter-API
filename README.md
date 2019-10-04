@@ -1,7 +1,7 @@
-# Mini project
-Group 12
+# Boston University - ECE601 F19 Mini project 1
+Group 12:
+This project uses twitter api and google google natural language api. We are getting tweets from users about their feelings and opitions over a new product or new food menu added to fast food restaurants. In our example, we are going to use the launch of the "Impossible Burger"(https://impossiblefoods.com/food/) in the Burguer Kind menu.
 
-We are focusing on the food industry. Our goal is to design an app to customer food preferences and check what food is trending.
 # Architecture
 ![image](https://github.com/yanjh95/F19_EC601_t12_mini1/blob/master/architecture.jpg)
 # User stories
