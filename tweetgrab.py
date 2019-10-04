@@ -8,10 +8,7 @@ import json
 
 
 #Twitter API credentialssource env/bin/activate
-consumer_key = "tvGmHK64xLilLRqb6UFtMHURa"
-consumer_secret = "aOOHcKCXnRiX1E6YbfhgxKnDL9XRroDGKMGfGn5JrOSUkxnbq8"
-access_key = "1171132254027804673-382n0T6UlQxq4ToxxSCdcqyiGHSBt2"
-access_secret = "XPhN5dbFqNnW60f8ajVwjLQ3FqUv5nT1Vk3BTVXt0Zyzd"
+
 
 def get_all_tweets(screen_name):
     
