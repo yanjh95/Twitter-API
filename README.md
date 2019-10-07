@@ -21,4 +21,4 @@ Me as FAO , would like to know food needs around the globe.
 # How our Application works
 In the **tweetgrab.py** file, we use *api.search()* to get the feeds we wanted. For example:"#impossibleburger,#BurguerKing" which is used as a demo. Then, we could acquire 60 feeds from the twitter search, then saved the feeds in **tweet.json** file, which we want to save for possible future use. Now, we are using **readjson.py** to grab the useful data for our appication(location and text content), which creates another json file called **reviews.json**.Then **sentanl.py** uses the google natural language api to score the sentiment for each tweet and its location and prints it in the terminal.
 Here is an example of the ouput:
-![image](https://github.com/yanjh95/F19_EC601_t12_mini1/blob/master/outputex.PNG)
+![image](https://github.com/yanjh95/F19_EC601_t12_mini1/blob/master/outputex.jpg)
